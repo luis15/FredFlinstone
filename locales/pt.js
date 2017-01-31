@@ -71,5 +71,7 @@
 	"Our people that changes the world.": "Our people that changes the world.",
 	"BdeB have received your data": "BdeB have received your data",
 	"Success": "Success",
-	" here": " here"
+	" here": " here",
+	"Accountant": "Contabilista",
+	"WebDesigner and WebDeveloper": "WebDesigner e WebDeveloper"
 }
