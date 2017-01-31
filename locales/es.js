@@ -3,8 +3,8 @@
 	"Contact us": "Hable con nosotros",
 	"Bitcoin": "Bitcoin",
 	"Your data has been sent with success": "Dados enviados con éxito",
-	"To back to home, click":"Para cambiar a la home, clique",
-	"here":"aquí",
+	"To back to home, click": "Para cambiar a la home, clique",
+	"here": "aquí",
 	"Contact": "Contacto",
 	"Name": "Nombre",
 	"setCustomValidity('Please insert your name')": "setCustomValidity('Por favor, introduzca su nombre')",
@@ -59,5 +59,7 @@
 	"It is simple to Use": "Es fácil de usar",
 	"Use bitcoins is so easy as pay with money. And with BdeB it is easier, just scan your BitCode and your transactions are done!": "Usar bitcoins y tan fácil como pagar con dinero en efectivo. Y con BdeB es más fácil aún, sólo escanear el BitCode y se completarán sus transacciones.",
 	"Talk with us and see how intuitive it is!": "¡Contacta con nosotros y mire com és seguro!",
-	"Got interested. Talk with us now!": "Tiene interés.¡Contacta con nosotros ahora!"
+	"Got interested. Talk with us now!": "Tiene interés.¡Contacta con nosotros ahora!",
+	"Accountant": "Contador",
+	"WebDesigner and WebDeveloper": "WebDesigner y WebDeveloper"
 }
