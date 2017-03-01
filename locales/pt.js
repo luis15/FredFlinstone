@@ -81,5 +81,6 @@
 	"Talk with us and see how intuitive it is!": "Fale conosco e veja como é Intuitivo!",
 	"Got interested. Talk with us now!": "Tem interesse, fale conosco agora!",
 	"Accountant": "Contabilista",
-	"WebDesigner and WebDeveloper": "WebDesigner e WebDeveloper"
+	"WebDesigner and WebDeveloper": "WebDesigner e WebDeveloper",
+	"Call us on Messeger": "Call us on Messeger"
 }
