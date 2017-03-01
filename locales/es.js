@@ -76,5 +76,6 @@
 	"Talk with us and see how intuitive it is!": "¡Contacta con nosotros y mire com és seguro!",
 	"Got interested. Talk with us now!": "Tiene interés.¡Contacta con nosotros ahora!",
 	"Accountant": "Contador",
-	"WebDesigner and WebDeveloper": "WebDesigner y WebDeveloper"
+	"WebDesigner and WebDeveloper": "WebDesigner y WebDeveloper",
+	"Call us on Messeger": "Llamenos en Messeger"
 }

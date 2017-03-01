@@ -77,5 +77,6 @@
 	"The BdeB is a brazilian company, that belives everybody can have opportunity by the new ways of payments.": "The BdeB is a brazilian company, that belives everybody can have opportunity by the new ways of payments.",
 	"Everybody loves BdeB, and you will love too": "Everybody loves BdeB, and you will love too",
 	"See our plans and understand how easy is be a BdeBian": "See our plans and understand how easy is be a BdeBian",
-	"Our people that changes the world": "Our people that changes the world"
+	"Our people that changes the world": "Our people that changes the world",
+	"Call us on Messeger": "Call us on Messeger"
 }
