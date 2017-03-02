@@ -82,5 +82,6 @@
 	"Got interested. Talk with us now!": "Tem interesse, fale conosco agora!",
 	"Accountant": "Contabilista",
 	"WebDesigner and WebDeveloper": "WebDesigner e WebDeveloper",
-	"Call us on Messeger": "Nos chame no Messenger"
+	"Call us on Messeger": "Nos chame no Messenger",
+	"Facebook": "Facebook"
 }
